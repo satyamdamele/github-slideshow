@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Satyam Damele has a bright future, everybody knows!
 Use the left arrow to go back!
